@@ -1,0 +1,9 @@
+# requirements.txt
+Flask>=2.0
+google-generativeai
+python-dotenv
+sentence-transformers
+scikit-learn
+numpy
+fastapi
+uvicorn[standard]

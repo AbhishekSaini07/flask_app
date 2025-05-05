@@ -1,0 +1,445 @@
+[
+    {
+      "assignment": "Numerical Reasoning Test - Beginner",
+      "url": "https://example.com/ability-aptitude/numerical-reasoning-beginner",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "30 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Assesses fundamental numerical reasoning abilities with basic arithmetic operations and data interpretation."
+    },
+    {
+      "assignment": "Verbal Reasoning Assessment - Intermediate Level",
+      "url": "https://example.com/ability-aptitude/verbal-reasoning-intermediate",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Ability & Aptitude", "Knowledge & Skills"],
+      "description": "Evaluates verbal comprehension, vocabulary, and logical reasoning through language."
+    },
+    {
+      "assignment": "Situational Judgment Test for Customer Support",
+      "url": "https://example.com/situational-judgement/customer-support",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "20 minutes",
+      "test_type": ["Biodata & Situational Judgement"],
+      "description": "Measures decision-making and interpersonal behavior in realistic customer service scenarios."
+    },
+    {
+      "assignment": "Java Basics Knowledge Assessment",
+      "url": "https://example.com/knowledge-skills/java-basics",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "45 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Tests foundational knowledge in Java syntax, object-oriented principles, and basic coding constructs."
+    },
+    {
+      "assignment": "Personality Inventory for Workplace Harmony",
+      "url": "https://example.com/personality-behavior/workplace-harmony",
+      "remote_support": "No",
+      "adaptive_support": "Yes",
+      "duration": "35 minutes",
+      "test_type": ["Personality & Behavior"],
+      "description": "Assesses individual personality traits that influence team collaboration and workplace adaptability."
+    },
+    {
+      "assignment": "Emotional Intelligence and Leadership Qualities",
+      "url": "https://example.com/personality-behavior/eq-leadership",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "50 minutes",
+      "test_type": ["Personality & Behavior", "Competencies Development & 360 Assessment"],
+      "description": "Evaluates emotional control, empathy, self-awareness, and leadership decision-making."
+    },
+    {
+      "assignment": "Team Leadership Competency Test",
+      "url": "https://example.com/competencies-development/team-leadership",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "55 minutes",
+      "test_type": ["Competencies Development & 360 Assessment"],
+      "description": "Designed to measure leadership skills in conflict resolution, delegation, and strategic planning."
+    },
+    {
+      "assignment": "Cognitive Flexibility for Decision Making",
+      "url": "https://example.com/ability-aptitude/cognitive-decision-making",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "35 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Measures adaptability and flexible thinking across changing problem contexts."
+    },
+    {
+      "assignment": "Advanced Data Science Evaluation",
+      "url": "https://example.com/knowledge-skills/data-science-advanced",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "75 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Covers machine learning, data wrangling, statistics, and model evaluation techniques."
+    },
+    {
+      "assignment": "Advanced Problem Solving Challenge",
+      "url": "https://example.com/ability-aptitude/problem-solving-advanced",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "40 minutes",
+      "test_type": ["Ability & Aptitude", "Simulations"],
+      "description": "Complex logical problems designed to assess strategic problem-solving and reasoning."
+    },
+    {
+      "assignment": "Team Collaboration Dynamics Test",
+      "url": "https://example.com/competencies-development/team-dynamics",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "30 minutes",
+      "test_type": ["Competencies Development & 360 Assessment"],
+      "description": "Evaluates how individuals perform in group settings and resolve conflicts constructively."
+    },
+    {
+      "assignment": "Critical Thinking Evaluation - Executive Level",
+      "url": "https://example.com/ability-aptitude/critical-thinking-executive",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "50 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Analyzes logical reasoning, assumptions, conclusions, and data-driven thinking."
+    },
+    {
+      "assignment": "Software Engineering Interview Simulation",
+      "url": "https://example.com/knowledge-skills/engineering-interview",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "60 minutes",
+      "test_type": ["Knowledge & Skills", "Simulations"],
+      "description": "Simulates a technical interview with algorithmic challenges and system design."
+    },
+    {
+      "assignment": "Mathematical Aptitude Mastery",
+      "url": "https://example.com/ability-aptitude/math-aptitude",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Advanced-level test covering algebra, ratios, percentages, and real-world calculations."
+    },
+    {
+      "assignment": "Sales Executive Competency Assessment",
+      "url": "https://example.com/competencies-development/sales-exec",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "50 minutes",
+      "test_type": ["Competencies Development & 360 Assessment"],
+      "description": "Assesses negotiation, persuasion, and customer relationship management for sales leaders."
+    },
+    {
+      "assignment": "Cultural Fit and Organizational Alignment",
+      "url": "https://example.com/personality-behavior/cultural-alignment",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "30 minutes",
+      "test_type": ["Personality & Behavior"],
+      "description": "Measures compatibility of personal values with organizational culture and ethics."
+    },
+    {
+      "assignment": "Strategic Thinking for Senior Executives",
+      "url": "https://example.com/competencies-development/strategic-thinking",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "70 minutes",
+      "test_type": ["Competencies Development & 360 Assessment", "Simulations"],
+      "description": "Assesses ability to align vision with long-term organizational goals."
+    },
+    {
+      "assignment": "Software Architecture and Design Principles",
+      "url": "https://example.com/knowledge-skills/software-architecture",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "90 minutes",
+      "test_type": ["Knowledge & Skills", "Simulations"],
+      "description": "Covers design patterns, system scalability, and architecture best practices."
+    },
+    {
+      "assignment": "Advanced SQL Querying Skills",
+      "url": "https://example.com/knowledge-skills/sql-advanced",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "60 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Evaluates proficiency in joins, subqueries, performance tuning, and database functions."
+    },
+    {
+      "assignment": "Data Structures and Algorithms Proficiency Test",
+      "url": "https://example.com/knowledge-skills/dsa-proficiency",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "70 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "This assessment evaluates understanding and implementation of data structures and algorithms in real-world scenarios."
+    },
+    {
+      "assignment": "Analytical Thinking and Pattern Recognition",
+      "url": "https://example.com/ability-aptitude/analytical-thinking",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Measures the candidate's ability to identify trends, recognize patterns, and draw logical conclusions."
+    },
+    {
+      "assignment": "Situational Judgment in Workplace Ethics",
+      "url": "https://example.com/situational-judgement/workplace-ethics",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "30 minutes",
+      "test_type": ["Biodata & Situational Judgement"],
+      "description": "Assesses responses to ethical dilemmas and workplace integrity scenarios."
+    },
+    {
+      "assignment": "Java Spring Boot Skills Assessment",
+      "url": "https://example.com/knowledge-skills/spring-boot",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "60 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Covers concepts related to Spring Boot, REST APIs, and backend architecture design."
+    },
+    {
+      "assignment": "Conflict Management Style Evaluation",
+      "url": "https://example.com/personality-behavior/conflict-management",
+      "remote_support": "No",
+      "adaptive_support": "Yes",
+      "duration": "35 minutes",
+      "test_type": ["Personality & Behavior"],
+      "description": "Identifies behavioral traits and strategies used during workplace conflicts."
+    },
+    {
+      "assignment": "CRM Software Task Simulation",
+      "url": "https://example.com/simulations/crm-task-scenario",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "50 minutes",
+      "test_type": ["Simulations"],
+      "description": "Simulates CRM operations such as managing leads, updating records, and reporting issues."
+    },
+    {
+      "assignment": "Leadership Competency Framework Evaluation",
+      "url": "https://example.com/competencies-development/leadership-evaluation",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "45 minutes",
+      "test_type": ["Competencies Development & 360 Assessment"],
+      "description": "Analyzes key leadership skills including strategic thinking and team direction."
+    },
+    {
+      "assignment": "Advanced Numerical Reasoning Test",
+      "url": "https://example.com/ability-aptitude/advanced-numerical-reasoning",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Evaluates numerical interpretation and quantitative decision-making capabilities."
+    },
+    {
+      "assignment": "Cloud Technologies Knowledge Assessment",
+      "url": "https://example.com/knowledge-skills/cloud-architecture",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "55 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Tests understanding of cloud computing concepts including AWS, deployment models, and architecture."
+    },
+    {
+      "assignment": "Workplace Stress Response Simulation",
+      "url": "https://example.com/simulations/workplace-stress-simulation",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "45 minutes",
+      "test_type": ["Simulations", "Personality & Behavior"],
+      "description": "Assesses how candidates handle stress-inducing workplace scenarios under pressure."
+    },{
+      "assignment": "Full Stack Web Development Assessment",
+      "url": "https://example.com/knowledge-skills/fullstack-development",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "75 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Evaluates front-end and back-end skills using technologies like React, Node.js, and MongoDB."
+    },
+    {
+      "assignment": "Critical Thinking and Decision Making Test",
+      "url": "https://example.com/ability-aptitude/critical-thinking",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "35 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Measures logical reasoning, argument analysis, and decision-making skills."
+    },
+    {
+      "assignment": "Customer Interaction Simulation for Retail",
+      "url": "https://example.com/simulations/retail-customer-interaction",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "30 minutes",
+      "test_type": ["Simulations"],
+      "description": "Simulates real-time interactions with customers to test service handling and communication."
+    },
+    {
+      "assignment": "Remote Team Collaboration Assessment",
+      "url": "https://example.com/personality-behavior/team-collaboration",
+      "remote_support": "No",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Personality & Behavior"],
+      "description": "Assesses traits related to working in a distributed team, including communication and cooperation."
+    },
+    {
+      "assignment": "Time Management and Productivity Style Survey",
+      "url": "https://example.com/personality-behavior/time-management",
+      "remote_support": "No",
+      "adaptive_support": "Yes",
+      "duration": "25 minutes",
+      "test_type": ["Personality & Behavior"],
+      "description": "Analyzes personal organization skills, task prioritization, and deadline management behavior."
+    },
+    {
+      "assignment": "Biodata Survey: Academic & Professional Background",
+      "url": "https://example.com/biodata-situational/biodata-profile",
+      "remote_support": "No",
+      "adaptive_support": "No",
+      "duration": "20 minutes",
+      "test_type": ["Biodata & Situational Judgement"],
+      "description": "Collects structured data about educational qualifications, past experience, and job preferences."
+    },
+    {
+      "assignment": "Technical Support Scenario Simulation",
+      "url": "https://example.com/simulations/tech-support",
+      "remote_support": "Yes",
+      "adaptive_support": "No",
+      "duration": "50 minutes",
+      "test_type": ["Simulations"],
+      "description": "Simulates troubleshooting customer issues in a tech support environment."
+    },
+    {
+      "assignment": "Agile Project Management Knowledge Test",
+      "url": "https://example.com/knowledge-skills/agile-project-management",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "45 minutes",
+      "test_type": ["Knowledge & Skills"],
+      "description": "Covers Scrum, Kanban, sprint planning, and agile ceremonies knowledge."
+    },
+    {
+      "assignment": "Interpersonal Effectiveness in Teams",
+      "url": "https://example.com/competencies-development/interpersonal-effectiveness",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "40 minutes",
+      "test_type": ["Competencies Development & 360 Assessment"],
+      "description": "Assesses soft skills like listening, empathy, and team rapport through peer and self-evaluations."
+    },
+    {
+      "assignment": "Logical Sequences and Puzzles Test",
+      "url": "https://example.com/ability-aptitude/logical-sequences",
+      "remote_support": "Yes",
+      "adaptive_support": "Yes",
+      "duration": "30 minutes",
+      "test_type": ["Ability & Aptitude"],
+      "description": "Measures reasoning ability by solving logic puzzles and identifying number/letter patterns."
+    },
+      {
+        "assignment": "Intermediate Logical Reasoning Test",
+        "url": "https://example.com/ability-aptitude/logical-reasoning-intermediate",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "35 minutes",
+        "test_type": ["Ability & Aptitude"],
+        "description": "This test measures the ability to deduce patterns and solve logical problems using reasoning skills."
+      },
+      {
+        "assignment": "Basic Programming Logic Test - Python",
+        "url": "https://example.com/knowledge-skills/basic-python-programming",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "45 minutes",
+        "test_type": ["Knowledge & Skills"],
+        "description": "A foundational test for assessing understanding of programming logic using Python."
+      },
+      {
+        "assignment": "Behavioral Judgment for Customer Service Roles",
+        "url": "https://example.com/situational-judgement/customer-service-behavior",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "30 minutes",
+        "test_type": ["Biodata & Situational Judgement"],
+        "description": "This test evaluates behavioral responses to customer service scenarios."
+      },
+      {
+        "assignment": "Frontend Web Development Skills Test",
+        "url": "https://example.com/knowledge-skills/frontend-web-development",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "60 minutes",
+        "test_type": ["Knowledge & Skills"],
+        "description": "This assessment covers HTML, CSS, JavaScript and responsive web design."
+      },
+      {
+        "assignment": "Team Behavior and Emotional Response Assessment",
+        "url": "https://example.com/personality-behavior/team-emotional-response",
+        "remote_support": "No",
+        "adaptive_support": "Yes",
+        "duration": "40 minutes",
+        "test_type": ["Personality & Behavior"],
+        "description": "Measures emotional regulation and team-oriented behavior patterns."
+      },
+      {
+        "assignment": "Project Management Competency Test - Intermediate",
+        "url": "https://example.com/competencies-development/project-management",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "55 minutes",
+        "test_type": ["Competencies Development & 360 Assessment"],
+        "description": "A test to assess project scheduling, stakeholder communication, and risk handling."
+      },
+      {
+        "assignment": "Problem Solving with Real-Time Scenarios",
+        "url": "https://example.com/simulations/problem-solving-simulation",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "50 minutes",
+        "test_type": ["Simulations", "Ability & Aptitude"],
+        "description": "Candidates solve real-time workplace problems under timed conditions."
+      },
+      {
+        "assignment": "ReactJS Development Proficiency Test",
+        "url": "https://example.com/knowledge-skills/reactjs-proficiency",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "60 minutes",
+        "test_type": ["Knowledge & Skills"],
+        "description": "Assesses hands-on skills with ReactJS including components, hooks, and state management."
+      },
+      {
+        "assignment": "Leadership Style and Behavioral Preferences",
+        "url": "https://example.com/personality-behavior/leadership-style",
+        "remote_support": "Yes",
+        "adaptive_support": "Yes",
+        "duration": "45 minutes",
+        "test_type": ["Personality & Behavior"],
+        "description": "Evaluates individual leadership traits and decision-making behavior."
+      },
+      {
+        "assignment": "Time Management Situational Assessment",
+        "url": "https://example.com/competencies-development/time-management",
+        "remote_support": "Yes",
+        "adaptive_support": "No",
+        "duration": "30 minutes",
+        "test_type": ["Competencies Development & 360 Assessment"],
+        "description": "Analyzes how candidates prioritize tasks and manage deadlines."
+      }
+    
+    
+  ]
+  
